@@ -15,9 +15,11 @@
 ---
 
 ## Tech Stack
+**OS**
+Linux | Ubunto | Redhat | Microsoft | MacOS 
 
 **Languages**
-Java | Python | SQL | Shell Scripting
+Java | Python(basics) | SQL | Shell Scripting
 
 **Cloud & DevOps**
 AWS (EC2, ECS, S3, Lambda, CloudWatch, IAM)  
