@@ -38,7 +38,7 @@ MySQL | Spring JDBC
 - Monitoring with CloudWatch and logging in RDS
 - Tech: AWS, Shell, Python
 
-### 🔹 Spring Boot Microservices API
+### 🔹 Microservices API
 - REST API with layered architecture
 - JWT authentication and database integration
 
